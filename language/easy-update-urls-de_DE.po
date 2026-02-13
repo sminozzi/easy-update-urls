@@ -1,0 +1,1443 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easy-update-urls\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-09 13:40+0100\n"
+"PO-Revision-Date: 2025-12-17 17:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.9; php-8.2.29\n"
+"X-Domain: site-checkupX-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard/update.php:39
+#| msgid ""
+#| "0 URLs updated. This happens if a URL is incorrect OR if it is not found "
+#| "in the content. Check your URLs and try again."
+msgid ""
+"0 terms updated. This happens if the search term is incorrect OR if it is "
+"not found in the content. Check your terms and try again."
+msgstr ""
+"0 Begriffe wurden aktualisiert. Dies passiert, wenn der Suchbegriff falsch "
+"ist ODER nicht im Inhalt gefunden wird. Überprüfen Sie Ihre Begriffe und "
+"versuchen Sie es erneut."
+
+#: includes/diagnose/class_bill_diagnose.php:2588
+msgid ""
+"A 256MB WP memory limit per PHP instance acts as a safety cap. It prevents a "
+"single memory leak—caused by a visitor or faulty plugin—from consuming all "
+"server RAM. This isolation protects the server from being overwhelmed, "
+"ensuring one problem doesn't crash the site or harm the experience for all "
+"other visitors."
+msgstr ""
+"Ein WP-Speicherlimit von 256 MB pro PHP-Instanz dient als Sicherheitslimit. "
+"Es verhindert, dass ein einzelner Speicherverlust – verursacht durch einen "
+"Besucher oder ein fehlerhaftes Plugin – den gesamten Server-RAM verbraucht. "
+"Diese Isolierung schützt den Server vor Überlastung und stellt sicher, dass "
+"ein Problem nicht zum Absturz der Website führt oder das Erlebnis für alle "
+"anderen Besucher beeinträchtigt."
+
+#: dashboard/dashboard.php:24
+msgid "A Powerful Search & Replace Tool for Your Database"
+msgstr "Ein leistungsstarkes Such- und Ersetzungstool für Ihre Datenbank"
+
+#: includes/diagnose/class_bill_diagnose.php:253
+msgid "Adequate execution time for most WordPress operations."
+msgstr "Ausreichende Ausführungszeit für die meisten WordPress-Operationen."
+
+#: dashboard/update.php:188
+msgid ""
+"After click, please, wait a few seconds... and don't reload page neither "
+"click back or stop in your browser."
+msgstr ""
+"Warten Sie nach dem Klicken bitte einige Sekunden. Laden Sie die Seite nicht "
+"neu und klicken Sie nicht auf „Zurück“ oder „Stoppen“ in Ihrem Browser."
+
+#: includes/diagnose/class_bill_diagnose.php:2896
+msgid "AI-Powered Instant Support"
+msgstr "KI-gestützter Sofort-Support"
+
+#: includes/chat/class_bill_chat.php:67
+msgid "AJAX request failed:"
+msgstr "AJAX-Anforderung fehlgeschlagen:"
+
+#: includes/diagnose/class_bill_diagnose.php:289
+msgid "APCu is installed and properly configured with WordPress drop-in."
+msgstr ""
+"APCu ist installiert und ordnungsgemäß mit dem WordPress-Drop-in "
+"konfiguriert."
+
+#: includes/diagnose/class_bill_diagnose.php:293
+msgid "APCu is installed but missing the WordPress object-cache.php file."
+msgstr "APCu ist installiert, aber die WordPress-Datei object-cache.php fehlt."
+
+#: includes/diagnose/class_bill_diagnose.php:292
+msgid "APCu: Missing Drop-in"
+msgstr "APCu: Fehlender Drop-in"
+
+#: includes/diagnose/class_bill_diagnose.php:288
+msgid "APCu: Ready"
+msgstr "APCu: Bereit"
+
+#: includes/diagnose/class_bill_diagnose.php:3463
+msgid ""
+"Are you sure you want to ignore all files? This action cannot be undone."
+msgstr ""
+"Sind Sie sicher, dass Sie alle Dateien ignorieren möchten? Diese Aktion kann "
+"nicht rückgängig gemacht werden."
+
+#: includes/diagnose/class_bill_diagnose.php:2469
+msgid "Artificial Intelligence 24X7 Support Chat for Issues and Solutions"
+msgstr "Künstliche Intelligenz – 24x7-Support-Chat für Probleme und Lösungen"
+
+#: dashboard/update.php:205
+msgid "Attachments"
+msgstr "Anlagen"
+
+#: includes/diagnose/class_bill_diagnose.php:3033
+msgid "Attack & Bot Security Report"
+msgstr "Angriffs- und Bot-Sicherheitsbericht"
+
+#: includes/diagnose/class_bill_diagnose.php:2488
+msgid "Auto Checkup for Errors"
+msgstr "Automatische Fehlerprüfung"
+
+#: includes/diagnose/class_bill_diagnose.php:2493
+msgid "Auto Checkup Server "
+msgstr "Automatischer Checkup-Server"
+
+#: dashboard/dashboard.php:55
+msgid ""
+"Backup Your Database: Secure your site by creating a fresh backup before you "
+"begin."
+msgstr ""
+"Sichern Sie Ihre Datenbank: Sichern Sie Ihre Site, indem Sie vor dem Beginn "
+"eine neue Sicherung erstellen."
+
+#. Author of the plugin
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#: includes/diagnose/class_bill_diagnose.php:1150
+msgid ""
+"Block bots: They overload the server and steal your content. Install our "
+"free plugin Antihacker."
+msgstr ""
+"Blockieren Sie Bots: Sie überlasten den Server und stehlen Ihre Inhalte. "
+"Installieren Sie unser kostenloses Plugin Antihacker."
+
+#: includes/diagnose/class_bill_diagnose.php:2694
+msgid "Bots & Hackers attack"
+msgstr "Bots- und Hackerangriffe"
+
+#. echo '</strong>';
+#: includes/diagnose/class_bill_diagnose.php:1461
+msgid ""
+"Bots aren't human—they're automated scripts that visit your site. They steal "
+"your content, making it less unique. They overload your server, slowing it "
+"down and hurting your SEO."
+msgstr ""
+"Bots sind keine Menschen, sondern automatisierte Skripte, die Ihre Website "
+"besuchen. Sie stehlen Ihre Inhalte und machen sie dadurch weniger "
+"einzigartig. Sie überlasten Ihren Server, verlangsamen ihn und schaden Ihrer "
+"SEO."
+
+#: dashboard/dashboard.php:37
+msgid ""
+"Bulk Content Management: Quickly update outdated information, fix broken "
+"links, change affiliate codes, or modify any recurring content within your "
+"posts, pages, and custom fields."
+msgstr ""
+"Masseninhaltsverwaltung: Aktualisieren Sie schnell veraltete Informationen, "
+"reparieren Sie defekte Links, ändern Sie Partnercodes oder ändern Sie "
+"wiederkehrende Inhalte in Ihren Beiträgen, Seiten und benutzerdefinierten "
+"Feldern."
+
+#: includes/diagnose/class_bill_diagnose.php:266
+msgid "Cache Status Analysis"
+msgstr "Cache-Statusanalyse"
+
+#: includes/diagnose/_class_bill_diagnose.php:457
+#: includes/diagnose/class_bill_diagnose.php:991
+msgid ""
+"cannot function properly because your WordPress Memory Limit is too low. "
+"Your site will experience serious issues, even if you deactivate our plugin."
+msgstr ""
+"kann nicht ordnungsgemäß funktionieren, da Ihr WordPress-Speicherlimit zu "
+"niedrig ist. Ihre Website wird ernsthafte Probleme haben, selbst wenn Sie "
+"unser Plugin deaktivieren."
+
+#: includes/diagnose/class_bill_diagnose.php:2899
+msgid "Chat for free with our AI support anytime, 24/7."
+msgstr ""
+"Chatten Sie jederzeit kostenlos mit unserem KI-Support, rund um die Uhr."
+
+#: includes/chat/class_bill_chat.php:61
+msgid "Chat messages reset successfully."
+msgstr "Chat-Nachrichten erfolgreich zurückgesetzt."
+
+#: includes/diagnose/class_bill_diagnose.php:3001
+msgid "Check for available plugins & themes updates and security risks."
+msgstr ""
+"Suchen Sie nach verfügbaren Plugin- und Theme-Updates und Sicherheitsrisiken."
+
+#: includes/diagnose/class_bill_diagnose.php:2984
+msgid ""
+"Check server resources, configuration status, and critical environment "
+"variables."
+msgstr ""
+"Überprüfen Sie Serverressourcen, Konfigurationsstatus und kritische "
+"Umgebungsvariablen."
+
+#: includes/diagnose/class_bill_diagnose.php:1158
+msgid ""
+"Check your site for errors with free plugin wpTools. Errors and warnings can "
+"increase page load time by being recorded in log files, consuming resources "
+"and slowing down performance."
+msgstr ""
+"Überprüfen Sie Ihre Website mit dem kostenlosen Plugin wpTools auf Fehler. "
+"Fehler und Warnungen können die Ladezeit der Seite verlängern, da sie in "
+"Protokolldateien aufgezeichnet werden, Ressourcen verbrauchen und die "
+"Leistung beeinträchtigen."
+
+#: dashboard/update.php:134
+msgid "Choose which Content/URLs should be updated"
+msgstr "Wählen Sie aus, welche Inhalte/URLs aktualisiert werden sollen"
+
+#: includes/diagnose/_class_bill_diagnose.php:515
+msgid ""
+"Click the help button in the top right or go directly to the AI chat box "
+"below for more specific information on the issues listed."
+msgstr ""
+"Klicken Sie auf die Hilfeschaltfläche oben rechts oder gehen Sie direkt zum "
+"KI-Chatfenster unten, um genauere Informationen zu den aufgeführten "
+"Problemen zu erhalten."
+
+#: includes/diagnose/class_bill_diagnose.php:2384
+msgid "Complete Error Summary - All Log Files"
+msgstr "Vollständige Fehlerübersicht – Alle Protokolldateien"
+
+#: dashboard/dashboard.php:35
+msgid ""
+"Comprehensive Search & Replace: Find and replace any text string across all "
+"your database tables. Perfect for mass content revisions, correcting "
+"widespread typos, or updating branding information."
+msgstr ""
+"Umfassende Suchen- und Ersetzen-Funktion: Suchen und ersetzen Sie beliebige "
+"Textzeichenfolgen in allen Ihren Datenbanktabellen. Ideal für die "
+"Überarbeitung von Inhalten, die Korrektur häufiger Tippfehler oder die "
+"Aktualisierung von Markeninformationen."
+
+#: includes/diagnose/class_bill_diagnose.php:262
+msgid "Consider increasing max_execution_time for better performance."
+msgstr ""
+"Erwägen Sie, max_execution_time zu erhöhen, um eine bessere Leistung zu "
+"erzielen."
+
+#: includes/diagnose/class_bill_diagnose.php:299
+msgid "Consider installing APCu for improved database performance."
+msgstr ""
+"Erwägen Sie die Installation von APCu zur Verbesserung der Datenbankleistung."
+
+#: includes/diagnose/class_bill_diagnose.php:225
+msgid ""
+"Consider installing ImageMagick for improved image processing performance."
+msgstr ""
+"Erwägen Sie die Installation von ImageMagick, um die "
+"Bildverarbeitungsleistung zu verbessern."
+
+#: includes/diagnose/class_bill_diagnose.php:240
+msgid "Consider updating to PHP 8.2+ for better performance and security."
+msgstr ""
+"Für bessere Leistung und Sicherheit sollten Sie ein Update auf PHP 8.2+ in "
+"Betracht ziehen."
+
+#: dashboard/update.php:203
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr ""
+"Inhaltselemente (Beiträge, Seiten, benutzerdefinierte Beitragstypen, "
+"Revisionen)"
+
+#: dashboard/update.php:161
+msgid "Content/URLs for attachments"
+msgstr "Inhalte/URLs für Anhänge"
+
+#: dashboard/update.php:168
+msgid "Content/URLs in custom fields and meta boxes"
+msgstr "Inhalte/URLs in benutzerdefinierten Feldern und Meta-Boxen"
+
+#: dashboard/update.php:151
+msgid "Content/URLs in excerpts"
+msgstr "Inhalte/URLs in Auszügen"
+
+#: dashboard/update.php:156
+msgid "Content/URLs in links"
+msgstr "Inhalte/URLs in Links"
+
+#: dashboard/update.php:144
+msgid "Content/URLs in page content"
+msgstr "Inhalte/URLs im Seiteninhalt"
+
+#: includes/diagnose/class_bill_diagnose.php:2398
+msgid "Count"
+msgstr "Zählen"
+
+#: includes/diagnose/_class_bill_diagnose.php:1052
+#: includes/diagnose/class_bill_diagnose.php:3061
+msgid "Critical Issues"
+msgstr "Kritische Probleme"
+
+#: dashboard/update.php:207
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+#: includes/diagnose/class_bill_diagnose.php:2964
+msgid "Database Health Check"
+msgstr "Datenbank-Integritätsprüfung"
+
+#: includes/diagnose/class_bill_diagnose.php:1410
+msgid "day(s)"
+msgstr "Tag(e)"
+
+#: includes/diagnose/class_bill_diagnose.php:197
+msgid "Debug and Error Display Analysis"
+msgstr "Debug- und Fehleranzeigeanalyse"
+
+#: includes/diagnose/class_bill_diagnose.php:212
+msgid "Debug Settings: Good"
+msgstr "Debug-Einstellungen: Gut"
+
+#: dashboard/update.php:108
+msgid "Define the search and replace terms below."
+msgstr "Definieren Sie unten die Such- und Ersetzungsbegriffe."
+
+#: includes/diagnose/class_bill_diagnose.php:3301
+msgid "Deleted"
+msgstr "Gelöscht"
+
+#: includes/diagnose/class_bill_diagnose.php:2481
+msgid ""
+"Describe your issue, or use the buttons below to check for errors or server "
+"settings..."
+msgstr ""
+"Beschreiben Sie Ihr Problem oder verwenden Sie die Schaltflächen unten, um "
+"nach Fehlern oder Servereinstellungen zu suchen …"
+
+#: includes/diagnose/class_bill_diagnose.php:3208
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/diagnose/class_bill_diagnose.php:3204
+#: includes/diagnose/class_bill_diagnose.php:3304
+msgid "Detected"
+msgstr "Erkannt"
+
+#: dashboard/mybanners.php:187
+msgid "Did you like the Easy Update Urls Plugin?"
+msgstr "Hat Ihnen das Plugin „Easy Update Urls“ gefallen?"
+
+#: dashboard/dashboard.php:43
+msgid ""
+"Directly modifying your database is a powerful action that carries inherent "
+"risks. A mistake could potentially disrupt your site. To protect your work, "
+"we strongly recommend you create a complete database backup before "
+"proceeding with any changes."
+msgstr ""
+"Die direkte Änderung Ihrer Datenbank ist eine komplexe Aktion, die mit "
+"Risiken verbunden ist. Ein Fehler könnte Ihre Website beeinträchtigen. Um "
+"Ihre Arbeit zu schützen, empfehlen wir Ihnen dringend, vor Änderungen eine "
+"vollständige Datenbanksicherung zu erstellen."
+
+#: includes/diagnose/class_bill_diagnose.php:202
+msgid "Disable WP_DEBUG on production sites to prevent information disclosure."
+msgstr ""
+"Deaktivieren Sie WP_DEBUG auf Produktionsseiten, um die Offenlegung von "
+"Informationen zu verhindern."
+
+#: includes/diagnose/_class_bill_diagnose.php:513
+#: includes/diagnose/class_bill_diagnose.php:2454
+msgid ""
+"Disabling our plugin does not stop the errors from occurring; it simply "
+"means you will no longer be notified here that they are happening, but they "
+"can still harm your site."
+msgstr ""
+"Durch das Deaktivieren unseres Plugins werden die Fehler nicht verhindert. "
+"Es bedeutet lediglich, dass Sie hier nicht mehr über deren Auftreten "
+"benachrichtigt werden. Ihre Site kann jedoch weiterhin Schaden nehmen."
+
+#: includes/diagnose/class_bill_diagnose.php:206
+msgid "Display Errors is On"
+msgstr "Anzeigefehler ist aktiviert"
+
+#: includes/diagnose/_class_bill_diagnose.php:511
+msgid ""
+"Displaying the latest recurring errors (Javascript Included) from your error "
+"log file and eventually alert about low WordPress memory limit is a courtesy "
+"of plugin"
+msgstr ""
+"Das Plugin zeigt die neuesten wiederkehrenden Fehler (einschließlich "
+"JavaScript) aus Ihrer Fehlerprotokolldatei an und warnt Sie gegebenenfalls "
+"vor einem niedrigen WordPress-Speicherlimit."
+
+#: includes/diagnose/class_bill_diagnose.php:3395
+msgid "Do not delay:"
+msgstr "Zögern Sie nicht:"
+
+#. Description of the plugin
+msgid "Easy Search and Replace in WP database"
+msgstr "Einfaches Suchen und Ersetzen in der WP-Datenbank"
+
+#. Name of the plugin
+msgid "easy-update-urls"
+msgstr "Einfache Aktualisierung von URLs"
+
+#: dashboard/dashboard.php:36
+msgid ""
+"Effortless Site Migration: While its power is broad, it excels at its "
+"original purpose: seamlessly updating URLs and file paths when moving a "
+"WordPress site to a new domain or server."
+msgstr ""
+"Mühelose Site-Migration: Obwohl es über umfassende Leistungsmerkmale verfügt,"
+" zeichnet es sich durch seinen ursprünglichen Zweck aus: die nahtlose "
+"Aktualisierung von URLs und Dateipfaden beim Verschieben einer WordPress-"
+"Site auf eine neue Domäne oder einen neuen Server."
+
+#: includes/diagnose/class_bill_diagnose.php:277
+msgid "Enable it in php.ini to improve WordPress performance."
+msgstr ""
+"Aktivieren Sie es in der php.ini, um die WordPress-Performance zu verbessern."
+
+#: dashboard/update.php:100 dashboard/update.php:279
+msgid "ERROR"
+msgstr "FEHLER"
+
+#: includes/chat/class_bill_chat.php:526
+msgid ""
+"Error contacting the Artificial Intelligence (API). Please try again later."
+msgstr ""
+"Fehler beim Kontaktieren der Künstlichen Intelligenz (API). Bitte versuchen "
+"Sie es später erneut."
+
+#: includes/chat/class_bill_chat.php:65
+msgid "Error processing server response:"
+msgstr "Fehler bei der Verarbeitung der Serverantwort:"
+
+#: includes/chat/class_bill_chat.php:62
+msgid "Error resetting chat messages."
+msgstr "Fehler beim Zurücksetzen der Chatnachrichten."
+
+#: includes/chat/class_bill_chat.php:68
+msgid "Error sending the message. Please try again later."
+msgstr ""
+"Fehler beim Senden der Nachricht. Bitte versuchen Sie es später erneut."
+
+#: includes/chat/class_bill_chat.php:620
+msgid "Error to get response from AI source!"
+msgstr "Fehler beim Abrufen der Antwort von der KI-Quelle!"
+
+#: includes/diagnose/class_bill_diagnose.php:2395
+msgid "Error Type"
+msgstr "Fehlertyp"
+
+#: includes/diagnose/class_bill_diagnose.php:2912
+msgid "Errors, Warnings, & JS Issues"
+msgstr "Fehler, Warnungen und JS-Probleme"
+
+#: dashboard/update.php:204
+msgid "Excerpts"
+msgstr "Auszüge"
+
+#: includes/diagnose/class_bill_diagnose.php:248
+msgid "Execution Time Analysis"
+msgstr "Analyse der Ausführungszeit"
+
+#: includes/diagnose/class_bill_diagnose.php:1544
+msgid "File not readable."
+msgstr "Datei nicht lesbar."
+
+#: includes/diagnose/class_bill_diagnose.php:3199
+msgid "File Path"
+msgstr "Dateipfad"
+
+#: includes/diagnose/class_bill_diagnose.php:1624
+msgid "File Size: "
+msgstr "Dateigröße:"
+
+#: includes/diagnose/class_bill_diagnose.php:3313
+msgid "Fixed"
+msgstr "Behoben"
+
+#: dashboard/dashboard.php:48
+msgid ""
+"For your peace of mind, you can install our free Database Backup plugin with "
+"a single click. This provides a reliable, one-step backup solution. We "
+"advise making this your first step. Click this link to install."
+msgstr ""
+"Für mehr Sicherheit können Sie unser kostenloses Datenbank-Backup-Plugin mit "
+"nur einem Klick installieren. Es bietet Ihnen eine zuverlässige Backup-"
+"Lösung in nur einem Schritt. Wir empfehlen Ihnen, dies als ersten Schritt zu "
+"nutzen. Klicken Sie hier, um es zu installieren."
+
+#: dashboard/dashboard.php:56
+msgid ""
+"Go to the \"Update\" Tab: Enter the exact text you want to find in the "
+"\"Search for\" field and the new text in the \"Replace with\" field."
+msgstr ""
+"Gehen Sie zur Registerkarte „Aktualisieren“: Geben Sie im Feld „Suchen nach“ "
+"den genauen Text ein, nach dem Sie suchen möchten, und im Feld „Ersetzen "
+"durch“ den neuen Text."
+
+#: dashboard/update.php:208
+msgid "GUIDs"
+msgstr "GUIDs"
+
+#: dashboard/update.php:175
+msgid "GUIDs for posts should only be changed on development sites."
+msgstr "GUIDs für Beiträge sollten nur auf Entwicklungssites geändert werden."
+
+#: includes/diagnose/class_bill_diagnose.php:1466
+msgid ""
+"Hackers look for vulnerabilities to access your server. Even small sites are "
+"targets—they use your server to send spam and attack others, damaging your "
+"IP and email reputation."
+msgstr ""
+"Hacker suchen nach Schwachstellen, um auf Ihren Server zuzugreifen. Selbst "
+"kleine Websites sind Ziele – sie nutzen Ihren Server, um Spam zu versenden "
+"und andere anzugreifen, wodurch Ihre IP-Adresse und Ihr E-Mail-Ruf "
+"geschädigt werden."
+
+#: includes/diagnose/_class_bill_diagnose.php:66
+msgid ""
+"Here are some details about error and memory monitoring for your plugin. "
+"Errors and low memory can prevent your site from functioning properly. On "
+"this page, you will find a partial list of the most recent errors and "
+"warnings. If you need more details, use the chat form, which will search for "
+"additional information using Artificial Intelligence.  \n"
+"If you need to dive deeper, install the free plugin WPTools, which provides "
+"more in-depth insights."
+msgstr ""
+"Hier finden Sie einige Details zur Fehler- und Speicherüberwachung Ihres "
+"Plugins. Fehler und geringer Speicherplatz können die korrekte Funktion "
+"Ihrer Website beeinträchtigen. Auf dieser Seite finden Sie eine Teilliste "
+"der aktuellsten Fehler und Warnungen. Benötigen Sie weitere Details? Nutzen "
+"Sie das Chat-Formular. Dieses sucht mithilfe künstlicher Intelligenz nach "
+"zusätzlichen Informationen.\n"
+"Für eine detailliertere Analyse installieren Sie das kostenlose Plugin "
+"WPTools."
+
+#: includes/diagnose/class_bill_diagnose.php:1406
+msgid "hour(s)"
+msgstr "Std)"
+
+#: dashboard/dashboard.php:52
+msgid "How to Use:"
+msgstr "Anwendung:"
+
+#. Author URI of the plugin
+msgid "http://billminozzi.com"
+msgstr "http://billminozzi.com"
+
+#: includes/diagnose/class_bill_diagnose.php:1471
+msgid ""
+"If you doubt the accuracy of the table below, check with your hosting "
+"provider or check the IPs with the site https://ipinfo.io."
+msgstr ""
+"Wenn Sie an der Richtigkeit der folgenden Tabelle zweifeln, wenden Sie sich "
+"an Ihren Hosting-Anbieter oder überprüfen Sie die IPs auf der Site https:"
+"//ipinfo.io."
+
+#: dashboard/tools.php:30
+msgid "If you need support, please, copy and paste the info below in our"
+msgstr ""
+"Wenn Sie Unterstützung benötigen, kopieren Sie bitte die folgenden "
+"Informationen und fügen Sie sie in unsere"
+
+#: dashboard/mybanners.php:198
+msgid ""
+"If you use & enjoy Easy Update URLs Plugin, please rate it on WordPress.org. "
+"It only takes a second and helps us keep the plugin live and maintained. "
+"Thank you!"
+msgstr ""
+"Wenn Sie das Easy Update URLs Plugin verwenden und es Ihnen gefällt, "
+"bewerten Sie es bitte auf WordPress.org. Das dauert nur eine Sekunde und "
+"hilft uns, das Plugin am Leben zu erhalten und zu pflegen. Vielen Dank!"
+
+#: includes/diagnose/class_bill_diagnose.php:3464
+msgid "Ignore the files above"
+msgstr "Ignorieren Sie die oben genannten Dateien."
+
+#: includes/diagnose/class_bill_diagnose.php:3310
+msgid "Ignored"
+msgstr "Ignoriert"
+
+#: includes/diagnose/class_bill_diagnose.php:217
+msgid "Image Processing Analysis"
+msgstr "Bildverarbeitungsanalyse"
+
+#: includes/diagnose/class_bill_diagnose.php:220
+msgid "ImageMagick Available"
+msgstr "ImageMagick verfügbar"
+
+#: includes/diagnose/class_bill_diagnose.php:221
+msgid ""
+"ImageMagick extension is installed, which provides better image processing "
+"capabilities."
+msgstr ""
+"Die ImageMagick-Erweiterung ist installiert, wodurch bessere "
+"Bildverarbeitungsfunktionen bereitgestellt werden."
+
+#: includes/diagnose/class_bill_diagnose.php:224
+msgid "ImageMagick Not Available"
+msgstr "ImageMagick nicht verfügbar"
+
+#: dashboard/update.php:163
+msgid "images, documents, general media"
+msgstr "Bilder, Dokumente, allgemeine Medien"
+
+#: dashboard/dashboard.php:41
+#| msgid "Important Reminder: Backup Your Database First!"
+msgid "Important Reminder: Always Backup Your Database First!"
+msgstr "Wichtige Erinnerung: Sichern Sie immer zuerst Ihre Datenbank!"
+
+#: includes/diagnose/class_bill_diagnose.php:282
+msgid "Install and enable Zend OPcache for major performance improvements."
+msgstr ""
+"Installieren und aktivieren Sie Zend OPcache, um deutliche "
+"Leistungsverbesserungen zu erzielen."
+
+#: dashboard/dashboard.php:54
+msgid "Install our recommended FREE Database Backup Plugin."
+msgstr ""
+"Installieren Sie unser empfohlenes KOSTENLOSES Datenbank-Backup-Plugin."
+
+#: includes/diagnose/class_bill_diagnose.php:3441
+#, php-format
+msgid ""
+"Install the free %s plugin now from WordPress for a complete scan of all "
+"your files. Your security is our top priority."
+msgstr ""
+"Installieren Sie jetzt das kostenlose %s-Plugin von WordPress für einen "
+"vollständigen Scan all Ihrer Dateien. Ihre Sicherheit hat für uns höchste "
+"Priorität."
+
+#: includes/diagnose/class_bill_diagnose.php:294
+msgid "Install the object cache drop-in to enable database caching."
+msgstr ""
+"Installieren Sie das Objektcache-Drop-in, um das Datenbank-Caching zu "
+"aktivieren."
+
+#: includes/chat/class_bill_chat.php:63
+msgid "Invalid message received:"
+msgstr "Ungültige Nachricht erhalten:"
+
+#: includes/chat/class_bill_chat.php:64
+msgid "Invalid response format:"
+msgstr "Ungültiges Antwortformat:"
+
+#: includes/diagnose/class_bill_diagnose.php:1564
+msgid "Invalid size."
+msgstr "Ungültige Größe."
+
+#: easyupdateurls.php:184
+msgid "Just Click Over Tools => Easy Update URLs."
+msgstr "Klicken Sie einfach auf „Tools“ => „URLs einfach aktualisieren“."
+
+#. General recommendation text
+#: includes/diagnose/class_bill_diagnose.php:1238
+msgid ""
+"Keeping your plugins up to date is crucial for ensuring security, "
+"performance, and compatibility."
+msgstr ""
+"Um Sicherheit, Leistung und Kompatibilität zu gewährleisten, ist es "
+"entscheidend, Ihre Plugins auf dem neuesten Stand zu halten."
+
+#: dashboard/dashboard.php:33
+msgid "Key Features:"
+msgstr "Hauptmerkmale:"
+
+#: includes/diagnose/_class_bill_diagnose.php:610
+#: includes/diagnose/_class_bill_diagnose.php:631
+#: includes/diagnose/class_bill_diagnose.php:2388
+#: includes/diagnose/class_bill_diagnose.php:2610
+#: includes/diagnose/class_bill_diagnose.php:2729
+msgid "Learn More"
+msgstr "Mehr erfahren"
+
+#: includes/diagnose/_class_bill_diagnose.php:463
+#: includes/diagnose/class_bill_diagnose.php:1000
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: includes/diagnose/class_bill_diagnose.php:1165
+msgid ""
+"Learn more about Page Load Times and their negative impact on SEO and more"
+msgstr ""
+"Erfahren Sie mehr über Seitenladezeiten und deren negative Auswirkungen auf "
+"SEO und mehr"
+
+#: dashboard/update.php:177
+msgid "Learn More."
+msgstr "Erfahren Sie mehr."
+
+#: dashboard/update.php:206
+msgid "Links"
+msgstr "Links"
+
+#: includes/diagnose/class_bill_diagnose.php:1131
+msgid "Loading time can significantly impact your SEO."
+msgstr "Die Ladezeit kann Ihre SEO erheblich beeinflussen."
+
+#: includes/diagnose/class_bill_diagnose.php:261
+msgid "Low execution time limit may cause timeout issues."
+msgstr ""
+"Ein zu niedriges Ausführungszeitlimit kann zu Timeout-Problemen führen."
+
+#: includes/diagnose/_class_bill_diagnose.php:574
+msgid "Low WordPress Memory Limit"
+msgstr "Niedriges WordPress-Speicherlimit"
+
+#: includes/diagnose/class_bill_diagnose.php:2537
+msgid "Low WordPress Memory Limit - CRITICAL"
+msgstr "Niedriges WordPress-Speicherlimit – KRITISCH"
+
+#: includes/diagnose/class_bill_diagnose.php:3267
+msgid "MALICIOUS"
+msgstr "BÖSLICH"
+
+#: includes/diagnose/class_bill_diagnose.php:1136
+msgid "Many users will abandon the site before it fully loads."
+msgstr "Viele Benutzer verlassen die Site, bevor sie vollständig geladen ist."
+
+#: includes/diagnose/_class_bill_diagnose.php:74
+#: includes/diagnose/class_bill_diagnose.php:53
+msgid "Memory & Error Monitoring"
+msgstr "Speicher- und Fehlerüberwachung"
+
+#: includes/diagnose/class_bill_diagnose.php:1402
+msgid "minutes"
+msgstr "Minuten"
+
+#: includes/diagnose/class_bill_diagnose.php:2703
+msgid "Miscellaneous"
+msgstr "Verschiedenes"
+
+#: includes/diagnose/class_bill_diagnose.php:3279
+msgid "MISSING"
+msgstr "FEHLEN"
+
+#: includes/diagnose/class_bill_diagnose.php:257
+msgid "Moderate execution time - sufficient for standard operations."
+msgstr "Moderate Ausführungszeit – ausreichend für Standardvorgänge."
+
+#: includes/diagnose/class_bill_diagnose.php:3275
+msgid "MODIFIED"
+msgstr "MODIFIZIERT"
+
+#: includes/diagnose/class_bill_diagnose.php:258
+msgid "Monitor for timeout issues with resource-intensive plugins."
+msgstr "Achten Sie auf Timeout-Probleme bei ressourcenintensiven Plugins."
+
+#: includes/diagnose/class_bill_diagnose.php:1418
+msgid "month(s)"
+msgstr "Monat(e)"
+
+#: dashboard/dashboard.php:59
+msgid "Need Help?"
+msgstr "Benötigen Sie Hilfe?"
+
+#: includes/diagnose/class_bill_diagnose.php:3077
+msgid "No integrity issues have been detected yet."
+msgstr "Bislang wurden keine Integritätsprobleme festgestellt."
+
+#: includes/diagnose/class_bill_diagnose.php:3106
+msgid "No integrity issues have been detected."
+msgstr "Es wurden keine Integritätsprobleme festgestellt."
+
+#: includes/diagnose/class_bill_diagnose.php:298
+msgid "No persistent object cache detected (APCu, Redis, Memcached)."
+msgstr ""
+"Es wurde kein persistenter Objektcache gefunden (APCu, Redis, Memcached)."
+
+#: includes/diagnose/class_bill_diagnose.php:1454
+msgid "Number of last attacks: "
+msgstr "Anzahl der letzten Angriffe:"
+
+#: includes/diagnose/class_bill_diagnose.php:297
+msgid "Object Cache: Not Available"
+msgstr "Objektcache: Nicht verfügbar"
+
+#: includes/diagnose/class_bill_diagnose.php:276
+msgid "OPcache is installed but not active in your PHP configuration."
+msgstr ""
+"OPcache ist installiert, aber in Ihrer PHP-Konfiguration nicht aktiviert."
+
+#: includes/diagnose/class_bill_diagnose.php:281
+msgid "OPcache is missing, which significantly impacts PHP performance."
+msgstr "OPcache fehlt, was die PHP-Performance erheblich beeinträchtigt."
+
+#: includes/diagnose/class_bill_diagnose.php:272
+msgid "OPcache is properly configured and improving PHP performance."
+msgstr "OPcache ist korrekt konfiguriert und verbessert die PHP-Performance."
+
+#: includes/diagnose/class_bill_diagnose.php:271
+msgid "OPcache: Active"
+msgstr "OPcache: Aktiv"
+
+#: includes/diagnose/class_bill_diagnose.php:275
+msgid "OPcache: Installed but Inactive"
+msgstr "OPcache: Installiert, aber inaktiv"
+
+#: includes/diagnose/class_bill_diagnose.php:280
+msgid "OPcache: Not Installed"
+msgstr "OPcache: Nicht installiert"
+
+#: easyupdateurls.php:183
+msgid "Open Easy Update URLs Plugin Here!"
+msgstr "Öffnen Sie hier das Plugin „Easy Update URLs“!"
+
+#: includes/diagnose/class_bill_diagnose.php:1479
+#, php-format
+#| msgid ""
+#| "Our free <a href=\"%1$s\">easy_update_urls</a> and <a href=\"%2$s\">"
+#| "AntiHacker</a> plugins help safeguard your site."
+msgid ""
+"Our free <a href=\"%1$s\">stopbadbots</a> and <a href=\"%2$s\">AntiHacker</a>"
+" plugins help safeguard your site."
+msgstr ""
+"Unsere kostenlosen <a href=\"%1$s\">StopBadBots-</a> und <a href=\"%2$s\">"
+"AntiHacker</a> -Plugins helfen Ihnen, Ihre Site zu schützen."
+
+#: includes/diagnose/_class_bill_diagnose.php:455
+#: includes/diagnose/class_bill_diagnose.php:989
+msgid "Our plugin"
+msgstr "Unser Plugin"
+
+#: includes/diagnose/class_bill_diagnose.php:2947
+msgid "Page Speed Report"
+msgstr "Seitengeschwindigkeitsbericht"
+
+#: includes/diagnose/class_bill_diagnose.php:3283
+msgid "PERMISSIONS"
+msgstr "GENEHMIGUNGEN"
+
+#: includes/diagnose/class_bill_diagnose.php:230
+msgid "PHP Version Analysis"
+msgstr "PHP-Versionsanalyse"
+
+#: includes/diagnose/class_bill_diagnose.php:234
+#, php-format
+msgid "PHP Version: %s (Current)"
+msgstr "PHP-Version: %s (Aktuell)"
+
+#: includes/diagnose/class_bill_diagnose.php:242
+#, php-format
+msgid "PHP Version: %s (Outdated)"
+msgstr "PHP-Version: %s (Veraltet)"
+
+#: includes/diagnose/class_bill_diagnose.php:238
+#, php-format
+msgid "PHP Version: %s (Update Recommended)"
+msgstr "PHP-Version: %s (Aktualisierung empfohlen)"
+
+#: includes/chat/class_bill_chat.php:69
+msgid "Please enter a message!"
+msgstr "Bitte geben Sie eine Nachricht ein!"
+
+#: dashboard/update.php:100
+msgid ""
+"Please enter a value in both the 'Search For' and 'Replace With' fields."
+msgstr ""
+"Bitte geben Sie in die Felder „Suchen nach“ und „Ersetzen durch“ einen Wert "
+"ein."
+
+#: dashboard/mybanners.php:195
+msgid "Please help us keep the plugin live & up-to-date"
+msgstr "Bitte helfen Sie uns, das Plugin live und aktuell zu halten"
+
+#: dashboard/update.php:15
+msgid "Please select at least one checkbox."
+msgstr "Bitte aktivieren Sie mindestens ein Kontrollkästchen."
+
+#: dashboard/mybanners.php:189
+msgid ""
+"Please support us by rating our plugin on WordPress.org. Help us keep this "
+"plugin live and updated."
+msgstr ""
+"Bitte unterstützen Sie uns, indem Sie unser Plugin auf WordPress.org "
+"bewerten. Helfen Sie uns, dieses Plugin am Leben zu erhalten und auf dem "
+"neuesten Stand zu halten."
+
+#: dashboard/update.php:13
+msgid "Please try again."
+msgstr "Bitte versuchen Sie es erneut."
+
+#: includes/diagnose/class_bill_diagnose.php:2997
+msgid "Plugin & Themes Update Status"
+msgstr "Plugin- und Theme-Update-Status"
+
+#: dashboard/dashboard.php:67
+msgid "Plugin Site"
+msgstr "Plugin-Site"
+
+#: includes/diagnose/class_bill_diagnose.php:2674
+msgid "Plugins & Themes Update Status"
+msgstr "Update-Status für Plugins und Themes"
+
+#: includes/diagnose/class_bill_diagnose.php:1221
+msgid "Plugins with Updates Available"
+msgstr "Plugins mit verfügbaren Updates"
+
+#: includes/diagnose/class_bill_diagnose.php:1225
+msgid "Plugins with Updates Available - ATTENTION!"
+msgstr "Plugins mit verfügbaren Updates – ACHTUNG!"
+
+#: dashboard/update.php:146
+msgid "posts, pages, custom post types, revisions"
+msgstr "Beiträge, Seiten, benutzerdefinierte Beitragstypen, Revisionen"
+
+#: includes/diagnose/_class_bill_diagnose.php:566
+#: includes/diagnose/class_bill_diagnose.php:2500
+msgid "Potential Problems"
+msgstr "Mögliche Probleme"
+
+#: includes/diagnose/class_bill_diagnose.php:1154
+msgid ""
+"Protect against hackers: They use bots to search for vulnerabilities and "
+"overload the server. Install our free plugin AntiHacker"
+msgstr ""
+"Schützen Sie sich vor Hackern: Sie nutzen Bots, um nach Schwachstellen zu "
+"suchen und den Server zu überlasten. Installieren Sie unser kostenloses "
+"Plugin AntiHacker"
+
+#: includes/diagnose/class_bill_diagnose.php:3316
+msgid "Quarantined"
+msgstr "Unter Quarantäne gestellt"
+
+#: dashboard/mybanners.php:192 dashboard/mybanners.php:201
+msgid "Rate"
+msgstr "Rate"
+
+#: includes/diagnose/class_bill_diagnose.php:3387
+msgid "Recommendations:"
+msgstr "Empfehlungen:"
+
+#: dashboard/update.php:123
+msgid "Replace Width"
+msgstr "Breite ersetzen"
+
+#: includes/chat/class_bill_chat.php:66
+msgid "Response is not valid JSON."
+msgstr "Die Antwort ist kein gültiges JSON."
+
+#: dashboard/update.php:80
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: includes/diagnose/class_bill_diagnose.php:3307
+msgid "Reviewed"
+msgstr "Rezension"
+
+#: dashboard/update.php:187
+msgid "Run a backup of your database before beginning!"
+msgstr "Führen Sie vor dem Beginn ein Backup Ihrer Datenbank durch!"
+
+#: includes/diagnose/class_bill_diagnose.php:3354
+msgid "Scan Information:"
+msgstr "Scaninformationen:"
+
+#: includes/diagnose/class_bill_diagnose.php:1141
+msgid ""
+"Search engines prioritize faster-loading pages, as they improve user "
+"experience and reduce bounce rates."
+msgstr ""
+"Suchmaschinen priorisieren schneller ladende Seiten, da sie die "
+"Benutzererfahrung verbessern und die Absprungraten reduzieren."
+
+#: dashboard/update.php:115
+msgid "Search For"
+msgstr "Suchen nach"
+
+#: dashboard/update.php:10
+msgid "Search/Replace"
+msgstr "Suchen/Ersetzen"
+
+#: includes/diagnose/class_bill_diagnose.php:1398
+msgid "seconds"
+msgstr "Sekunden"
+
+#: includes/diagnose/class_bill_diagnose.php:2810
+msgid ""
+"SECURITY ALERT: File integrity issues detected. Possible hacker intrusion or "
+"malware presence. Click to view details."
+msgstr ""
+"SICHERHEITSWARNUNG: Probleme mit der Dateiintegrität festgestellt. Möglicher "
+"Hackerangriff oder Schadsoftwarebefall. Klicken Sie hier, um Details "
+"anzuzeigen."
+
+#: includes/diagnose/class_bill_diagnose.php:3166
+msgid ""
+"SECURITY ALERT: File Integrity Issues Found. Possible hacker intrusion and "
+"malware presence."
+msgstr ""
+"SICHERHEITSWARNUNG: Probleme mit der Dateiintegrität festgestellt. Möglicher "
+"Hackerangriff und Malware-Befall."
+
+#: includes/diagnose/class_bill_diagnose.php:3415
+msgid "Security Status:"
+msgstr "Sicherheitsstatus:"
+
+#: includes/diagnose/class_bill_diagnose.php:3356
+msgid ""
+"See our recommendations below for a complete scan, including checking the "
+"file content."
+msgstr ""
+"Nachfolgend finden Sie unsere Empfehlungen für einen vollständigen Scan, "
+"einschließlich der Überprüfung des Dateiinhalts."
+
+#: includes/diagnose/class_bill_diagnose.php:2482
+msgid "Send"
+msgstr "Schicken"
+
+#: includes/diagnose/class_bill_diagnose.php:2663
+#: includes/diagnose/class_bill_diagnose.php:2980
+msgid "Server Health & Config Status"
+msgstr "Serverzustand und Konfigurationsstatus"
+
+#: includes/diagnose/class_bill_diagnose.php:208
+msgid "Set display_errors to Off in production and use error logging instead."
+msgstr ""
+"Setzen Sie display_errors in der Produktionsumgebung auf Off und verwenden "
+"Sie stattdessen die Fehlerprotokollierung."
+
+#: includes/diagnose/class_bill_diagnose.php:207
+msgid ""
+"Showing PHP errors on screen can reveal sensitive path information and "
+"system details."
+msgstr ""
+"Die Anzeige von PHP-Fehlern auf dem Bildschirm kann sensible "
+"Pfadinformationen und Systemdetails offenlegen."
+
+#: includes/diagnose/_class_bill_diagnose.php:622
+#: includes/diagnose/class_bill_diagnose.php:2724
+msgid "Site Errors"
+msgstr "Site-Fehler"
+
+#. Tab heading for Site Health navigation.
+#: includes/diagnose/_class_bill_diagnose.php:480
+#: includes/diagnose/class_bill_diagnose.php:1017
+msgctxt "Site Health"
+msgid "Critical Issues"
+msgstr "Kritische Probleme"
+
+#: includes/diagnose/class_bill_diagnose.php:3205
+msgid "Size"
+msgstr "Größe"
+
+#: includes/diagnose/class_bill_diagnose.php:1549
+msgid "Size not determined."
+msgstr "Größe nicht bestimmt."
+
+#: includes/diagnose/class_bill_diagnose.php:3203
+msgid "Status"
+msgstr "Status"
+
+#: dashboard/update.php:77
+msgid "Success! Your URLs have been updated."
+msgstr "Erfolg! Ihre URLs wurden aktualisiert."
+
+#: includes/diagnose/class_bill_diagnose.php:1148
+msgid "Suggestions:"
+msgstr "Vorschläge:"
+
+#: dashboard/tools.php:31
+msgid "Support Site"
+msgstr "Support-Seite"
+
+#: includes/diagnose/class_bill_diagnose.php:2861
+#, php-format
+msgid ""
+"The %s Monitors server and configuration conditions for reliable plugin "
+"performance."
+msgstr ""
+"%s überwacht die Server- und Konfigurationsbedingungen für eine zuverlässige "
+"Plugin-Leistung."
+
+#: includes/diagnose/class_bill_diagnose.php:3419
+#, php-format
+msgid "The %s plugin is active and protecting your site. Run a full scan now!"
+msgstr ""
+"Das %s-Plugin ist aktiv und schützt Ihre Website. Führen Sie jetzt einen "
+"vollständigen Scan durch!"
+
+#: includes/diagnose/class_bill_diagnose.php:3430
+#, php-format
+msgid ""
+"The %s plugin is installed but inactive. Please activate it for a complete "
+"scan."
+msgstr ""
+"Das %s-Plugin ist installiert, aber inaktiv. Bitte aktivieren Sie es für "
+"einen vollständigen Scan."
+
+#: includes/diagnose/class_bill_diagnose.php:3355
+msgid ""
+"The anomalies were detected by our Lite Integrity Scanner. These files do "
+"not match the official versions of WordPress and its components, indicating "
+"a potential malicious alteration (malware). This is a quick, partial system "
+"check."
+msgstr ""
+"Die Anomalien wurden von unserem Lite Integrity Scanner entdeckt. Diese "
+"Dateien stimmen nicht mit den offiziellen Versionen von WordPress und seinen "
+"Komponenten überein, was auf eine mögliche Schadsoftware-Manipulation "
+"hindeutet. Dies ist eine schnelle, unvollständige Systemprüfung."
+
+#: includes/diagnose/class_bill_diagnose.php:1125
+#: includes/diagnose/class_bill_diagnose.php:1172
+msgid "The Load average of your front pages is: "
+msgstr "Die durchschnittliche Auslastung Ihrer Startseiten beträgt:"
+
+#: includes/diagnose/class_bill_diagnose.php:1081
+#: includes/diagnose/class_bill_diagnose.php:1088
+msgid "The page load time is Excellent."
+msgstr "Die Ladezeit der Seite ist ausgezeichnet."
+
+#: includes/diagnose/class_bill_diagnose.php:1095
+msgid "The page load time is Good."
+msgstr "Die Ladezeit der Seite ist gut."
+
+#: includes/diagnose/class_bill_diagnose.php:1109
+msgid "The page load time is Poor"
+msgstr "Die Seitenladezeit ist schlecht"
+
+#: includes/diagnose/class_bill_diagnose.php:1102
+msgid "The page load time is Regular"
+msgstr "Die Seitenladezeit ist normal"
+
+#: includes/diagnose/class_bill_diagnose.php:1113
+msgid "The page load time is Very Poor"
+msgstr "Die Ladezeit der Seite ist sehr schlecht"
+
+#: includes/diagnose/class_bill_diagnose.php:1288
+msgid "Themes with Updates Available"
+msgstr "Themen mit verfügbaren Updates"
+
+#: includes/diagnose/class_bill_diagnose.php:1295
+msgid "Themes with Updates Available - ATTENTION!"
+msgstr "Themen mit verfügbaren Updates – ACHTUNG!"
+
+#: includes/diagnose/_class_bill_diagnose.php:1046
+#: includes/diagnose/class_bill_diagnose.php:3055
+msgid ""
+"These are critical issues that can have a significant impact on your site's "
+"performance. They can cause many plugins and functionalities to malfunction "
+"and, in some cases, render your site completely inoperative, depending on "
+"their severity. Address them promptly."
+msgstr ""
+"Dies sind kritische Probleme, die die Leistung Ihrer Website erheblich "
+"beeinträchtigen können. Sie können zu Fehlfunktionen vieler Plugins und "
+"Funktionen führen und in einigen Fällen, je nach Schweregrad, Ihre Website "
+"vollständig funktionsunfähig machen. Beheben Sie diese Probleme umgehend."
+
+#: includes/diagnose/class_bill_diagnose.php:254
+msgid "This allows plugins and themes to complete complex tasks."
+msgstr "Dies ermöglicht es Plugins und Themes, komplexe Aufgaben zu erledigen."
+
+#: includes/diagnose/class_bill_diagnose.php:201
+msgid ""
+"This exposes sensitive information to users and should only be used in "
+"development environments."
+msgstr ""
+"Dadurch werden sensible Informationen den Benutzern zugänglich gemacht und "
+"die Methode sollte nur in Entwicklungsumgebungen verwendet werden."
+
+#: includes/diagnose/class_bill_diagnose.php:290
+msgid "This improves database performance by caching query results."
+msgstr ""
+"Dies verbessert die Datenbankleistung durch Zwischenspeicherung von "
+"Abfrageergebnissen."
+
+#: includes/diagnose/class_bill_diagnose.php:222
+msgid "This improves image quality and performance for media operations."
+msgstr ""
+"Dies verbessert die Bildqualität und die Leistungsfähigkeit für "
+"Medienproduktionsprozesse."
+
+#: includes/diagnose/_class_bill_diagnose.php:676
+#: includes/diagnose/class_bill_diagnose.php:1585
+msgid "This is a partial list of the errors found."
+msgstr "Dies ist eine unvollständige Liste der gefundenen Fehler."
+
+#: includes/diagnose/class_bill_diagnose.php:46
+msgid ""
+"This panel provides a comprehensive health status of your WordPress site, "
+"covering vital areas. Monitor for errors, low memory, and slow page speed. "
+"See real-time checks for database health, server configuration, and critical "
+"security issues (bots/attacks). Use the built-in AI support for instant "
+"troubleshooting. For deeper diagnosis, install the free WPTools plugin."
+msgstr ""
+"Dieses Panel bietet einen umfassenden Status Ihrer WordPress-Site und deckt "
+"wichtige Bereiche ab. Achten Sie auf Fehler, Speichermangel und langsame "
+"Seitengeschwindigkeit. Sehen Sie Echtzeit-Checks für Datenbankzustand, "
+"Serverkonfiguration und kritische Sicherheitsprobleme (Bots/Angriffe). "
+"Nutzen Sie die integrierte KI-Unterstützung für eine sofortige "
+"Fehlerbehebung. Für eine tiefergehende Diagnose installieren Sie das "
+"kostenlose WPTools-Plugin."
+
+#: dashboard/dashboard.php:31
+msgid ""
+"This plugin empowers you to perform these mass updates directly within the "
+"database safely and efficiently. You can change any string of text across "
+"your entire site with just a few clicks, ensuring complete and consistent "
+"results without writing a single line of SQL code."
+msgstr ""
+"Mit diesem Plugin können Sie Massenaktualisierungen sicher und effizient "
+"direkt in der Datenbank durchführen. Sie können beliebige Textzeichenfolgen "
+"auf Ihrer gesamten Website mit nur wenigen Klicks ändern und so vollständige "
+"und konsistente Ergebnisse erzielen, ohne eine einzige Zeile SQL-Code "
+"schreiben zu müssen."
+
+#: includes/diagnose/class_bill_diagnose.php:236
+msgid "This provides better performance and security features."
+msgstr "Dies bietet bessere Leistungs- und Sicherheitsfunktionen."
+
+#: includes/diagnose/class_bill_diagnose.php:2449
+msgid ""
+"This report provides detailed health checks covering errors, memory, "
+"performance, database status, server config, updates, and security, courtesy "
+"of the plugin"
+msgstr ""
+"Dieser Bericht bietet detaillierte Integritätsprüfungen zu Fehlern, Speicher,"
+" Leistung, Datenbankstatus, Serverkonfiguration, Updates und Sicherheit, mit "
+"freundlicher Genehmigung des Plugins"
+
+#: includes/diagnose/class_bill_diagnose.php:273
+msgid "This significantly speeds up PHP execution by caching compiled scripts."
+msgstr ""
+"Dies beschleunigt die PHP-Ausführung erheblich durch das Zwischenspeichern "
+"kompilierter Skripte."
+
+#: includes/diagnose/class_bill_diagnose.php:252
+#: includes/diagnose/class_bill_diagnose.php:256
+#: includes/diagnose/class_bill_diagnose.php:260
+#, php-format
+msgid "Time Limit: %s seconds"
+msgstr "Zeitlimit: %s Sekunden"
+
+#: includes/diagnose/class_bill_diagnose.php:3172
+msgid "Total issues:"
+msgstr "Gesamtzahl der Ausgaben:"
+
+#: includes/diagnose/_class_bill_diagnose.php:595
+#: includes/diagnose/class_bill_diagnose.php:2566
+msgid "Total Php Server Memory"
+msgstr "Gesamter PHP-Serverspeicher"
+
+#: includes/diagnose/class_bill_diagnose.php:3202
+msgid "Type"
+msgstr "Typ"
+
+#: includes/diagnose/class_bill_diagnose.php:3271
+msgid "UNKNOWN"
+msgstr "UNBEKANNT"
+
+#: dashboard/update.php:173
+msgid "Update ALL GUIDs"
+msgstr "Aktualisieren Sie ALLE GUIDs"
+
+#: includes/diagnose/class_bill_diagnose.php:244
+msgid ""
+"Update to PHP 8.2+ immediately for security and performance improvements."
+msgstr ""
+"Aktualisieren Sie umgehend auf PHP 8.2+, um Sicherheits- und "
+"Leistungsverbesserungen zu erzielen."
+
+#. General recommendation text for themes
+#: includes/diagnose/class_bill_diagnose.php:1309
+msgid ""
+"Updating themes is vital for security and compatibility with the current "
+"version of WordPress."
+msgstr ""
+"Das Aktualisieren von Designs ist für die Sicherheit und Kompatibilität mit "
+"der aktuellen Version von WordPress von entscheidender Bedeutung."
+
+#: includes/diagnose/class_bill_diagnose.php:2627
+msgid "URGENT: Security Compromise"
+msgstr "DRINGEND: Sicherheitslücke"
+
+#: includes/diagnose/class_bill_diagnose.php:2459
+msgid ""
+"Use the free chat below to get more instant details and tips on how to "
+"improve your site."
+msgstr ""
+"Nutzen Sie den kostenlosen Chat unten, um sofort weitere Details und Tipps "
+"zur Verbesserung Ihrer Website zu erhalten."
+
+#: includes/diagnose/class_bill_diagnose.php:2916
+msgid "View all PHP errors, system warnings, and JavaScript issues."
+msgstr "Alle PHP-Fehler, Systemwarnungen und JavaScript-Probleme anzeigen."
+
+#: includes/diagnose/class_bill_diagnose.php:2951
+msgid "View page load metrics and suggested actions for improvement."
+msgstr ""
+"Zeigen Sie Metriken zum Laden der Seite und vorgeschlagene Maßnahmen zur "
+"Verbesserung an."
+
+#: includes/diagnose/class_bill_diagnose.php:3040
+msgid "View statistics on detected bots and hacker attacks."
+msgstr "Sehen Sie sich Statistiken zu erkannten Bots und Hackerangriffen an."
+
+#: includes/diagnose/class_bill_diagnose.php:2968
+msgid "View the status of database tables and identify potential issues."
+msgstr ""
+"Zeigen Sie den Status von Datenbanktabellen an und identifizieren Sie "
+"potenzielle Probleme."
+
+#: includes/diagnose/class_bill_diagnose.php:2934
+msgid "View your WordPress memory limit and current consumption."
+msgstr "Zeigen Sie Ihr WordPress-Speicherlimit und den aktuellen Verbrauch an."
+
+#. Output translatable string for the help section
+#: dashboard/dashboard.php:63
+msgid "Visit the plugin site for our FAQ Page and more detailed information."
+msgstr ""
+"Besuchen Sie die Plugin-Site für unsere FAQ-Seite und ausführlichere "
+"Informationen."
+
+#: dashboard/dashboard.php:11
+msgid "We're sorry, but you cannot directly access this file."
+msgstr ""
+"Es tut uns leid, aber Sie können nicht direkt auf diese Datei zugreifen."
+
+#: includes/diagnose/class_bill_diagnose.php:2642
+msgid "Website Performance for SEO Ranking"
+msgstr "Website-Performance für das SEO-Ranking"
+
+#: includes/diagnose/class_bill_diagnose.php:1414
+msgid "week(s)"
+msgstr "Woche(n)"
+
+#: includes/diagnose/_class_bill_diagnose.php:75
+#: includes/diagnose/class_bill_diagnose.php:56
+msgid "Welcome to plugin Insights!"
+msgstr "Willkommen bei Plugin Insights!"
+
+#: dashboard/dashboard.php:26
+msgid ""
+"Welcome! While its name highlights URL updates, this plugin is a "
+"comprehensive Search and Replace tool for your entire WordPress database. It "
+"is expertly designed to find and replace any text, from URLs and image paths "
+"to recurring phrases or old branding, making it indispensable for site "
+"migrations, content overhauls, and routine maintenance."
+msgstr ""
+"Willkommen! Obwohl der Name URL-Updates hervorhebt, ist dieses Plugin ein "
+"umfassendes Such- und Ersetzungstool für Ihre gesamte WordPress-Datenbank. "
+"Es wurde speziell entwickelt, um beliebigen Text zu finden und zu ersetzen – "
+"von URLs und Bildpfaden bis hin zu wiederkehrenden Phrasen oder altem "
+"Branding. Damit ist es unverzichtbar für Website-Migrationen, "
+"Inhaltsüberarbeitungen und routinemäßige Wartungsarbeiten."
+
+#: dashboard/dashboard.php:28
+msgid "Why You Need a Database Search & Replace Tool"
+msgstr "Warum Sie ein Tool zum Suchen und Ersetzen in Datenbanken benötigen"
+
+#: includes/diagnose/class_bill_diagnose.php:2531
+#: includes/diagnose/class_bill_diagnose.php:2930
+msgid "WordPress Memory Status"
+msgstr "WordPress-Speicherstatus"
+
+#: dashboard/dashboard.php:30
+msgid ""
+"WordPress stores all your content, settings, and links in the database. When "
+"you need to change a piece of text that appears in many places—like an old "
+"company name, a deprecated shortcode, or a simple typo—updating each "
+"instance manually is tedious and prone to errors."
+msgstr ""
+"WordPress speichert alle Ihre Inhalte, Einstellungen und Links in der "
+"Datenbank. Wenn Sie einen Text ändern müssen, der an vielen Stellen "
+"erscheint – wie z. B. einen alten Firmennamen, einen veralteten Shortcode "
+"oder einen einfachen Tippfehler – ist die manuelle Aktualisierung jeder "
+"Instanz mühsam und fehleranfällig."
+
+#: includes/diagnose/class_bill_diagnose.php:226
+msgid "WordPress will use GD library as fallback for image operations."
+msgstr ""
+"WordPress verwendet die GD-Bibliothek als Fallback für Bildbearbeitungen."
+
+#: includes/diagnose/class_bill_diagnose.php:213
+msgid "WP_DEBUG is disabled and errors are not displayed publicly."
+msgstr "WP_DEBUG ist deaktiviert und Fehler werden nicht öffentlich angezeigt."
+
+#: includes/diagnose/class_bill_diagnose.php:200
+msgid "WP_DEBUG is Enabled"
+msgstr "WP_DEBUG ist aktiviert"
+
+#: includes/diagnose/class_bill_diagnose.php:235
+msgid "You are running a current PHP version with active security support."
+msgstr ""
+"Sie verwenden eine aktuelle PHP-Version mit aktiver Sicherheitsunterstützung."
+
+#: includes/diagnose/class_bill_diagnose.php:243
+msgid ""
+"You are running an outdated PHP version that may have security "
+"vulnerabilities."
+msgstr ""
+"Sie verwenden eine veraltete PHP-Version, die möglicherweise "
+"Sicherheitslücken aufweist."
+
+#: includes/diagnose/class_bill_diagnose.php:1184
+msgid "Your page load time is acceptable, but can still be improved."
+msgstr "Ihre Seitenladezeit ist akzeptabel, kann aber noch verbessert werden."
+
+#: includes/diagnose/class_bill_diagnose.php:1179
+msgid "Your page load time is excellent! Keep up the good work."
+msgstr "Die Ladezeit Ihrer Seite ist ausgezeichnet! Machen Sie weiter so."
+
+#: includes/diagnose/class_bill_diagnose.php:239
+msgid "Your PHP version is acceptable but not the latest."
+msgstr "Ihre PHP-Version ist akzeptabel, aber nicht die neueste."
+
+#: includes/diagnose/_class_bill_diagnose.php:627
+#: includes/diagnose/class_bill_diagnose.php:2727
+msgid ""
+"Your site has experienced errors for the past 2 days. These errors, "
+"including JavaScript issues, can result in visual problems or disrupt "
+"functionality, ranging from minor glitches to critical site failures. "
+"JavaScript errors can terminate JavaScript execution, leaving all subsequent "
+"commands inoperable."
+msgstr ""
+"Auf Ihrer Website sind in den letzten zwei Tagen Fehler aufgetreten. Diese "
+"Fehler, einschließlich JavaScript-Problemen, können zu visuellen Problemen "
+"oder Funktionsstörungen führen – von kleinen Störungen bis hin zu "
+"schwerwiegenden Ausfällen. JavaScript-Fehler können die Ausführung von "
+"JavaScript beenden, sodass alle nachfolgenden Befehle nicht mehr ausgeführt "
+"werden können."
+
+#: dashboard/update.php:100
+msgid "Your URLs have not been updated."
+msgstr "Ihre URLs wurden nicht aktualisiert."
+
+#: includes/diagnose/_class_bill_diagnose.php:587
+#: includes/diagnose/class_bill_diagnose.php:2560
+msgid "Your usage now"
+msgstr "Ihre Nutzung jetzt"
+
+#: includes/diagnose/_class_bill_diagnose.php:604
+#: includes/diagnose/class_bill_diagnose.php:2603
+msgid ""
+"Your WordPress Memory Limit is too low, which can lead to critical issues on "
+"your site due to insufficient resources. Promptly address this issue before "
+"continuing."
+msgstr ""
+"Ihr WordPress-Speicherlimit ist zu niedrig. Dies kann aufgrund "
+"unzureichender Ressourcen zu kritischen Problemen auf Ihrer Website führen. "
+"Beheben Sie dieses Problem umgehend, bevor Sie fortfahren."

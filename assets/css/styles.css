@@ -1,0 +1,99 @@
+#easy-update-urls-spinner {
+    display: none;
+}
+
+.easy-update-urls-description {
+    /* margin-top: 10px; */
+    font-size: 14px;
+}
+
+.wrap-easy-update-urls {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+#easy-update-urls-logo {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+#easy-update-urls-thead {
+    background-color: gray;
+    color: white;
+    height: 25px;
+}
+
+#easy-update-urls-td,
+#easy-update-urls-thead {
+    border: 1px solid #777;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+#easy-update-urls-table {
+    border-collapse: collapse;
+}
+
+#easy-update-urls-tbody #easy-update-urls-tr:nth-child(odd) {
+    background: #eee;
+}
+
+#easy-update-urls-caption {
+    font-size: 0.8rem;
+}
+
+#easy-update-urls-containerright-dashboard h2 {
+    border-bottom: 5px solid #ccc;
+    padding-bottom: 5px;
+    text-shadow: 5px 5px 10px #888;
+}
+
+#easy-update-urls-containerright-dashboard {
+    float: right;
+    /* background: lightgreen; */
+    /* width: 300px; */
+    /* max-width: 29%; */
+    margin-top: 17px;
+    padding: 0px;
+}
+
+#easy-update-urls-containerright-dashboard ul {
+    /* max-width: 300px; */
+    padding: 5px 10px 15px 30px;
+    margin-left: 5px;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    list-style: disc;
+    -moz-box-shadow: 5px 5px 15px #aaa;
+    -webkit-box-shadow: 5px 5px 15px #aaa;
+    box-shadow: 5px 5px 15px #aaa;
+    /* 2024 */
+    margin-top: 0px;
+}
+
+#easy-update-urls-containerright-dashboard img {
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+
+#easy-update-urls-dashboard-left {
+    float: left;
+    max-width: 74%;
+    min-width: 74%;
+}
+
+#easy-update-urls-dashboard-right {
+    float: right;
+    max-width: 25%;
+    /* background: yellow; */
+    margin-right: 1%;
+    /* 2024*/
+    background: white;
+}
+
+.wrap-easy-update-urls .database-description p,
+.wrap-easy-update-urls .database-description li {
+    font-size: 14px !important;
+    /* Adjust this value if needed, but it's a common WordPress admin font size */
+}
