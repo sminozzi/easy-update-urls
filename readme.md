@@ -25,7 +25,7 @@ It is expertly designed to find and replace any text, from URLs and image paths 
 
 ## Changelog
 
-### 2.0.0 (2026-02-13)
+### 2.0.1 (2026-02-13)
 * Major update: Codebase fully refactored to comply with ClassicPress Coding Standards.
 * Security: Enhanced security with proper data sanitization and escaping.
 * Feature: Added support for localization and internationalization.
