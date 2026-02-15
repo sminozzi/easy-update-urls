@@ -1,6 +1,6 @@
 === easy-update-urls ===
 Contributors: sminozzi
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 Requires at least: 4.9
 Tested up to: 6.9
 Requires PHP: 7.2
@@ -41,6 +41,6 @@ It is expertly designed to find and replace any text, from URLs and image paths 
 
 == Upgrade Notice ==
 
-= 2.0.0 =
+= 2.0.1 =
 2026/fev/13
 This update brings major code quality and security improvements. Highly recommended for all users.
